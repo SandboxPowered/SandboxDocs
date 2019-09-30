@@ -18,9 +18,11 @@
 
   Patch releases don’t require an upgrade guide. We typically provide release notes.
 
+{% hint style="info" %}
 ### Breaking Changes
 
 Though we try not to, we may have to make out-of-policy releases, deprecations, or breaking changes due to issues such as security risks, or fixes with exceptional technical burden.
+{% endhint %}
 
 ## API Stages
 
