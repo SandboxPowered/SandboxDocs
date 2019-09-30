@@ -24,7 +24,6 @@
 
 ## Release Notes & Upgrade Guides
 
-* [Whats New?](release-notes-and-upgrade-guides/whats-new/README.md)
-  * [Changelog](release-notes-and-upgrade-guides/whats-new/changelog.md)
-  * [Release Policy](release-notes-and-upgrade-guides/whats-new/release-policy.md)
+* [Changelog](release-notes-and-upgrade-guides/changelog.md)
+* [Release Policy](release-notes-and-upgrade-guides/release-policy.md)
 
