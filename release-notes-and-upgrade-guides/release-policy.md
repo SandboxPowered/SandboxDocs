@@ -6,7 +6,7 @@
 
  API releases are categorised as major, minor or patch using standard [semantic versioning](http://semver.org/) \(`major.minor.patch`\):
 
-* **Major** releases \(X.x.x\) include new features and breaking changes for previously warned depredations.
+* **Major** releases \(X.x.x\) include new features and breaking changes for previously warned deprecations.
 
   For major releases, we provide an upgrade guide as well as release notes.
 
