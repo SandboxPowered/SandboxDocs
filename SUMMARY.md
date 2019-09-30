@@ -11,6 +11,8 @@
 
 ## API Documentation
 
+* [Sandbox Addon Format](api-documentation/sandbox-addon-format/README.md)
+  * [Dependency Definition](api-documentation/sandbox-addon-format/dependency-definition.md)
 * [Content](api-documentation/content/README.md)
   * [Blocks](api-documentation/content/blocks.md)
   * [Items](api-documentation/content/items.md)
@@ -20,7 +22,10 @@
 
 ## Implementations
 
+* [Feature Parity](implementations/feature-parity.md)
 * [Fabric](implementations/fabric.md)
+* [Forge](implementations/forge.md)
+* [Expanse](implementations/expanse.md)
 
 ## Release Notes & Upgrade Guides
 
