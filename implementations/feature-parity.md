@@ -3,7 +3,7 @@
 * ✔️ = Contains feature
 * ❌ = Doesn't contain feature
 
-| Feature | [Fabric](fabric.md) | [Expanse](expanse.md) |
+| Feature | [Fabric](fabric.md) | [Neon](neon.md) |
 | :--- | :---: | :---: |
 | Cubic Chunks | ❌ | ✔️ |
 

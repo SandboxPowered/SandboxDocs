@@ -23,9 +23,9 @@
 ## Implementations
 
 * [Feature Parity](implementations/feature-parity.md)
+* [Neon](implementations/neon.md)
 * [Fabric](implementations/fabric.md)
 * [Forge](implementations/forge.md)
-* [Expanse](implementations/expanse.md)
 
 ## Release Notes & Upgrade Guides
 
