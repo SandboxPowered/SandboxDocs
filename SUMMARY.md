@@ -14,7 +14,7 @@
   * [Enchantments](api-docs/content/enchantments.md)
 * [Events](api-docs/events.md)
 * [Experimental](api-docs/experimental/README.md)
-  * [Input API](api-docs/experimental/controller-api.md)
+  * [Input API](api-docs/experimental/input-api.md)
 
 ## Implementations
 

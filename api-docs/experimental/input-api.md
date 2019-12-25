@@ -4,14 +4,10 @@
 
 #### Mouse
 
-```text
-
-```
-
 ### Controller Support
 
-{% hint style="info" %}
-Not all implementations may support this experimental API, check the feature parity page to see which implementations support this API
+{% hint style="warning" %}
+Not all implementations support controllers, check the feature parity page to see which implementations support this.
 {% endhint %}
 
 {% page-ref page="../../implementations/feature-parity.md" %}

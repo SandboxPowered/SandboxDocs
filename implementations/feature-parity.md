@@ -17,6 +17,7 @@ description: >-
 | Mod Browser | ➖ | ❌ | ➖ |
 | Friends List | ➖ | ❌ | ❌ |
 | Public Server List | ➖ | ❌ | ❌ |
+| Private Servers | ➖ | ❌ | ➖ |
 | Sandbox Editor | ❌ | ❌ | ❌ |
 | Controller Support | ➖ | ❌ | ➖ |
 | VR Support | ➖ | ❌ | ❌ |
