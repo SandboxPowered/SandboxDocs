@@ -3,9 +3,10 @@
 * ✔️ = Contains feature
 * ❌ = Doesn't contain feature
 
-| Feature | [Fabric](fabric.md) | [Neon](neon.md) |
-| :--- | :---: | :---: |
-| Cubic Chunks | ❌ | ✔️ |
+| Feature | [Neon](expanse.md) | [Forge](forge.md) | [Fabric](fabric.md) |
+| :--- | :---: | :---: | :---: |
+| Chunk LODs | ✔️ | ❌ | ❌ |
+| Cubic Chunks | ✔️ | ❌ | ❌ |
 
 
 

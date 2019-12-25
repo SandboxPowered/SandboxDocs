@@ -10,7 +10,7 @@ description: Documentation for the SandboxAPI
 This documentation is incomplete and will change at any time until we reach API v1
 {% endhint %}
 
-![](.gitbook/assets/github%20%281%29.png)
+![](.gitbook/assets/github.png)
 
 
 
