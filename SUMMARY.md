@@ -14,10 +14,7 @@
   * [Enchantments](api-docs/content/enchantments.md)
 * [Events](api-docs/events.md)
 * [Experimental](api-docs/experimental/README.md)
-  * [Editor API](api-docs/experimental/editor-api.md)
-  * [Social API](api-docs/experimental/social-api.md)
-  * [Controller API](api-docs/experimental/controller-api.md)
-  * [Virtual Reality API](api-docs/experimental/vr-api.md)
+  * [Input API](api-docs/experimental/controller-api.md)
 
 ## Implementations
 
