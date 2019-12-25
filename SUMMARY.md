@@ -3,26 +3,26 @@
 * [Home](README.md)
 * [What is Sandbox?](what-is-sandbox.md)
 
-## API Documentation
+## API Documentation <a id="api-docs"></a>
 
-* [Sandbox Addon Format](api-documentation/sandbox-addon-format/README.md)
-  * [Dependency Definition](api-documentation/sandbox-addon-format/dependency-definition.md)
-* [Content](api-documentation/content/README.md)
-  * [Blocks](api-documentation/content/blocks/README.md)
-    * [BlockEntities](api-documentation/content/blocks/blockentities.md)
-  * [Items](api-documentation/content/items.md)
-  * [Enchantments](api-documentation/content/enchantments.md)
-* [Events](api-documentation/events.md)
-* [Experimental](api-documentation/experimental/README.md)
-  * [Editor Gamemode](api-documentation/experimental/editor-gamemode.md)
-  * [Social API](api-documentation/experimental/social-api.md)
-  * [Controller API](api-documentation/experimental/controller-api.md)
-  * [VR API](api-documentation/experimental/vr-api.md)
+* [Sandbox Addon Format](api-docs/sandbox-addon-format/README.md)
+  * [Dependency Definition](api-docs/sandbox-addon-format/dependency-definition.md)
+* [Content](api-docs/content/README.md)
+  * [Blocks](api-docs/content/blocks/README.md)
+    * [BlockEntities](api-docs/content/blocks/blockentities.md)
+  * [Items](api-docs/content/items.md)
+  * [Enchantments](api-docs/content/enchantments.md)
+* [Events](api-docs/events.md)
+* [Experimental](api-docs/experimental/README.md)
+  * [Editor API](api-docs/experimental/editor-api.md)
+  * [Social API](api-docs/experimental/social-api.md)
+  * [Controller API](api-docs/experimental/controller-api.md)
+  * [Virtual Reality API](api-docs/experimental/vr-api.md)
 
 ## Implementations
 
 * [Feature Parity](implementations/feature-parity.md)
-* [Neon](implementations/expanse.md)
+* [Neon](implementations/neon.md)
 * [Fabric](implementations/fabric.md)
 * [Forge](implementations/forge.md)
 

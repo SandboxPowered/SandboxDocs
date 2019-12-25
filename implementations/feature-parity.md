@@ -10,15 +10,17 @@ description: >-
 * ❌ = Doesn't contain feature
 * ➖ = Under Development
 
-| Feature | [Neon](expanse.md) | [Forge](forge.md) | [Fabric](fabric.md) |
+| Feature | [Neon](neon.md) | [Forge](forge.md) | [Fabric](fabric.md) |
 | :--- | :---: | :---: | :---: |
 | Chunk LODs | ➖ | ❌ | ❌ |
 | Cubic Chunks | ✔️ | ❌ | ❌ |
 | Mod Browser | ➖ | ❌ | ➖ |
 | Friends List | ➖ | ❌ | ❌ |
 | Public Server List | ➖ | ❌ | ❌ |
-| Editor Gamemode | ❌ | ❌ | ❌ |
+| Sandbox Editor | ❌ | ❌ | ❌ |
 | Controller Support | ➖ | ❌ | ➖ |
 | VR Support | ➖ | ❌ | ❌ |
 | Discord Rich Presence | ➖ | ❌ | ❌ |
+
+
 
