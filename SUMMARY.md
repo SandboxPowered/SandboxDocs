@@ -23,8 +23,7 @@
 * [Fabric](implementations/fabric.md)
 * [Forge](implementations/forge.md)
 
-## Release Notes & Upgrade Guides <a id="misc"></a>
+## General Information
 
-* [Changelog](misc/changelog.md)
-* [Release Policy](misc/release-policy.md)
+* [Release Policy](general-information/release-policy.md)
 
