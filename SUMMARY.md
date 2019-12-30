@@ -5,6 +5,7 @@
 
 ## API Documentation <a id="api-docs"></a>
 
+* [Getting Started](api-docs/getting-started.md)
 * [Sandbox Addon Format](api-docs/sandbox-addon-format/README.md)
   * [Dependency Definition](api-docs/sandbox-addon-format/dependency-definition.md)
 * [Content](api-docs/content/README.md)
@@ -20,9 +21,9 @@
 
 * [Feature Parity](implementations/feature-parity.md)
 * [Neon](implementations/neon.md)
-* [Fabric](implementations/fabric/README.md)
+* [Fabric](implementations/fabric.md)
   * [Homepage](http://fabricmc.net/)
-* [Forge](implementations/forge/README.md)
+* [Forge](implementations/forge.md)
   * [Homepage](https://minecraftforge.net/)
 
 ## General Information
