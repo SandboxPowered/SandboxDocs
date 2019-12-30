@@ -10,7 +10,7 @@ description: >-
 * ❌ = Doesn't contain feature
 * ➖ = Under Development
 
-| Feature | [Neon](neon.md) | [Forge](forge.md) | [Fabric](fabric.md) |
+| Feature | [Neon](neon.md) | [Forge](forge/) | [Fabric](fabric/) |
 | :--- | :---: | :---: | :---: |
 | Chunk LODs | ➖ | ❌ | ❌ |
 | Cubic Chunks | ✔️ | ❌ | ❌ |

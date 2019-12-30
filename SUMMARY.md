@@ -20,8 +20,10 @@
 
 * [Feature Parity](implementations/feature-parity.md)
 * [Neon](implementations/neon.md)
-* [Fabric](implementations/fabric.md)
-* [Forge](implementations/forge.md)
+* [Fabric](implementations/fabric/README.md)
+  * [Homepage](http://fabricmc.net/)
+* [Forge](implementations/forge/README.md)
+  * [Homepage](https://minecraftforge.net/)
 
 ## General Information
 
