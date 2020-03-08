@@ -21,20 +21,21 @@
 {% hint style="info" %}
 ### Breaking Changes
 
-Though we try not to, we may have to make out-of-policy releases, deprecations, or breaking changes due to issues such as security risks, or fixes with exceptional technical burden.
+Though we try not to, we may have to make out-of-policy releases, deprecations, or breaking changes due to issues such as security risks, or fixes with exceptional technical burden. In such cases, a release note and upgrade guides will always be provided.
 {% endhint %}
 
 ## API Stages
 
-* **Internal**: APIs in this state will have the annotation **`@Internal`**. In some cases the term `internal` also appears in their namespace, comments, or as a prefix to each method name. Does not adhere to our bug fixing or breaking change policies. **Should never be used outside of the API or Implementations**
-* **Pre-Alpha**: Feature incomplete. Unknown if will become stable. APIs in this state will have the annotation **`@PreAlpha`**. In some cases the term `prealpha` also appears in their namespace, comments, or as a prefix to each method name. Does not adhere to our bug fixing or breaking change policies. Available for testing and development, but **not recommended** for public releases.
-* **Alpha**: Feature incomplete and may have some significant bugs. Planned to become stable. APIs in this state will have the annotation **`@Alpha`**. In some cases the term `alpha` also appears in their namespace, comments, or as a prefix to each method name. Does not adhere to our bug fixing or breaking change policies. Available for testing and development, but **not recommended** for public releases.
-* **Beta**: Feature complete and potentially with some performance optimisation, but may still be slightly unstable. APIs in this state will have the annotation **`@Beta`**. In some cases the term `beta` also appears in their namespace, comments, or as a prefix to each method name.
+API features in sandbox go through some stages before they are marked as Stable. Your plugin should only ever rely on Stable APIs, since they are the only ones that respect the bug fixing and breaking changes policy outlined above. Usage of APIs in other stages is highly discouraged.
 
-  Does not adhere to our bug fixing or breaking change policies. Available for development, but **not recommended** for public releases.
+All APIs that are in a different stage than Stable are marked with an annotation that indicates their current stage \(e.g. `@Beta` indicates that the API is in Beta stage\). Additionally, the current stage name may be in their package hierarchy, their class name, their method names and/or in comments \(e.g., `InternalBlock` may reside in a package named `internal`\).
 
-* **Stable**: A complete feature that meets the needs of a set of users for publicly released addons. We plan to continue working on this.
-* **Deprecated**: Not currently working on or planning to work on features or fixes. Could be removed permanently with notice.
-
-  Not recommended for public releases.
+| Stage | Meaning | Intended usage |
+| :--- | :--- | :--- |
+| **Internal** | Restricted to implementations of the Sandbox API | Should never be used by external addons |
+| **Pre-Alpha** | Incomplete and/or extremely buggy features, prone to breaking | Testing and development |
+| **Alpha** | Incomplete features and/or with high chance of bugs | Testing and development |
+| **Beta** | Feature complete, but potentially in need of optimization or real world usage testing | Testing and development |
+| **Stable** | Fully tested features, ready to be used in addons | Public addons and releases |
+| **Deprecated** | Potential removal in future releases, with no bug fixing or enhancement in the mean time | Phasing out of old APIs: addons should move to APIs as soon as possible |
 

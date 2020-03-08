@@ -1,8 +1,12 @@
 # Content
 
+Content in Sandbox is everything that can be represented by something physical in-game, such as blocks, items, and entities.
+
 ## Registering Content
 
-Content registration is a fairly straight forward process:
+All created content must be registered during the initialization phase of the addon. This allows Sandbox to correctly modify your Minecraft instance as needed.
+
+To do this you can use the following simple method:
 
 {% tabs %}
 {% tab title="API Reference" %}

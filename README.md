@@ -1,5 +1,5 @@
 ---
-description: Documentation for the SandboxAPI
+description: Documentation for the Sandbox API
 ---
 
 # Home

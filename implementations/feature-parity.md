@@ -10,15 +10,13 @@ description: >-
 * ❌ = Doesn't contain feature
 * ➖ = Under Development
 
-| Feature | [Neon](neon.md) | [Forge](forge.md) | [Fabric](fabric.md) |
+| Feature | [Neon](neon/) | [Forge](forge/) | [Fabric](fabric/) |
 | :--- | :---: | :---: | :---: |
 | Chunk LODs | ➖ | ❌ | ❌ |
-| Cubic Chunks | ✔️ | ❌ | ❌ |
+| Cubic Chunks | ➖ | ❌ | ❌ |
+| OBJ Model Support | ➖ | ❌ | ➖ |
 | Mod Browser | ➖ | ❌ | ➖ |
-| Friends List | ➖ | ❌ | ❌ |
-| Public Server List | ➖ | ❌ | ❌ |
-| Private Servers | ➖ | ❌ | ➖ |
-| Sandbox Editor | ❌ | ❌ | ❌ |
+| Sandbox Editor | ➖ | ❌ | ❌ |
 | Controller Support | ➖ | ❌ | ➖ |
 | VR Support | ➖ | ❌ | ❌ |
 | Discord Rich Presence | ➖ | ❌ | ❌ |
