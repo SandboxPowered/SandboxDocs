@@ -6,20 +6,19 @@ description: >-
 
 # Feature Parity
 
-* ✔️ = Contains feature
-* ❌ = Doesn't contain feature
-* ➖ = Under Development
+* ✔️ = Feature is available
+* ❌ = Feature isn't available
+* ➕ = Feature is under development
 
-| Feature | [Neon](neon/) | [Forge](forge/) | [Fabric](fabric/) |
-| :--- | :---: | :---: | :---: |
-| Chunk LODs | ➖ | ❌ | ❌ |
-| Cubic Chunks | ➖ | ❌ | ❌ |
-| OBJ Model Support | ➖ | ❌ | ➖ |
-| Mod Browser | ➖ | ❌ | ➖ |
-| Sandbox Editor | ➖ | ❌ | ❌ |
-| Controller Support | ➖ | ❌ | ➖ |
-| VR Support | ➖ | ❌ | ❌ |
-| Discord Rich Presence | ➖ | ❌ | ❌ |
+| Feature | [Neon](neon/) | [Fabric](fabric/) |
+| :--- | :---: | :---: |
+| Chunk LODs | ➕ | ❌ |
+| Cubic Chunks | ➕ | ❌ |
+| OBJ Model Support | ➕ | ➕ |
+| Mod Browser | ➕ | ➕ |
+| Controller Support | ➕ | ➕ |
+| Discord Rich Presence | ➕ | ❌ |
+| Material Support | ✔️ | ❌ |
 
 
 

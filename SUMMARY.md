@@ -9,6 +9,7 @@
 
 ## API Guides
 
+* [The Sandbox API Structure](api-guides/the-sandbox-api-structure.md)
 * [Sandbox Addon Format](api-guides/sandbox-addon-format/README.md)
   * [Dependency Definition](api-guides/sandbox-addon-format/dependency-definition.md)
 * [Content](api-guides/content/README.md)
@@ -22,11 +23,11 @@
 
 ## Implementations
 
+* [Implementation Info](implementations/implementation-info.md)
 * [Feature Parity](implementations/feature-parity.md)
+* [API Modules Parity](implementations/api-modules-parity.md)
 * [Neon](implementations/neon/README.md)
   * [Homepage](https://neon.voxel.games)
 * [Fabric](implementations/fabric/README.md)
   * [Homepage](http://fabricmc.net/)
-* [Forge](implementations/forge/README.md)
-  * [Homepage](https://minecraftforge.net/)
 
