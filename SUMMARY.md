@@ -26,8 +26,8 @@
 * [Implementation Info](implementations/implementation-info.md)
 * [Feature Parity](implementations/feature-parity.md)
 * [API Modules Parity](implementations/api-modules-parity.md)
-* [Neon](implementations/neon/README.md)
-  * [Homepage](https://neon.voxel.games)
 * [Fabric](implementations/fabric/README.md)
   * [Homepage](http://fabricmc.net/)
+* [Neon](implementations/neon/README.md)
+  * [Homepage](https://neon.voxel.games)
 
