@@ -6,15 +6,15 @@
 
  API releases are categorised as major, minor or patch using standard [semantic versioning](http://semver.org/) \(`major.minor.patch`\):
 
-* **Major** releases \(X.y.z\) include new features and breaking changes for previously warned deprecations.
+* **Major** releases \(**x**.y.z\) include new features and breaking changes for previously warned deprecations.
 
   For major releases, we provide an upgrade guide as well as release notes.
 
-* **Minor** releases \(x.Y.z\) include new features and no breaking changes.
+* **Minor** releases \(x.**y**.z\) include new features and no breaking changes.
 
   Minor releases don’t require an upgrade guide, but we provide release notes.
 
-* **Patch** releases \(x.y.Z\) contain only bug fixes and no breaking changes.
+* **Patch** releases \(x.y.**z**\) contain only bug fixes and no breaking changes.
 
   Patch releases don’t require an upgrade guide. We typically provide release notes.
 
