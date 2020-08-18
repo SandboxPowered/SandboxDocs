@@ -14,9 +14,9 @@ description: >-
 | :--- | :---: | :---: |
 | Chunk LODs | ➕ | ❌ |
 | Cubic Chunks | ➕ | ❌ |
-| OBJ Model Support | ❌ | ❌ |
-| Mod Browser | ❌ | ❌ |
-| Controller Support | ❌ | ❌ |
+| OBJ Model Support | ❌ | ➕ |
+| Mod Browser | ❌ | ➕ |
+| Controller Support | ❌ | ➕ |
 | Discord Rich Presence | ❌ | ❌ |
 
 
