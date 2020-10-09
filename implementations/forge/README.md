@@ -1,11 +1,7 @@
----
-description: Implementation specific details for Forge
----
-
 # Forge
 
-{% hint style="info" %}
-The Forge implementation of Sandbox is on hold until 2020
+{% hint style="warning" %}
+The Forge implementation of Sandbox is still in early development and is not yet feature-complete.
 {% endhint %}
 
 
