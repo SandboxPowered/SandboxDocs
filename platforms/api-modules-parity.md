@@ -10,7 +10,7 @@ description: Which modules are available where?
 
 ### Main Modules
 
-| Module slug | [Silica](glass-ecosystem.md) | [Fabric](fabric.md) | [Forge](forge.md) |
+| Module slug | [Silica](silica.md) | [Fabric](fabric.md) | [Forge](forge.md) |
 | :--- | :---: | :---: | :---: |
 | `base` | ➕ | ✔️ | ➕ |
 | `rendering` | ➕ | ✔️ | ➕ |
@@ -18,7 +18,7 @@ description: Which modules are available where?
 
 ### Low-Level Modules
 
-| Module slug | [Silica](glass-ecosystem.md) | [Fabric](fabric.md) | [Forge](forge.md) |
+| Module slug | [Silica](silica.md) | [Fabric](fabric.md) | [Forge](forge.md) |
 | :--- | :---: | :---: | :---: |
 | `rendering-opengl` | ❌ | ➕ | ➕ |
 | `rendering-vulkan` | ➕ | ❌ | ❌ |

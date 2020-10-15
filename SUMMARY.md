@@ -17,7 +17,7 @@
 * [Supported Platforms](platforms/supported.md)
 * [Feature Parity](platforms/feature-parity.md)
 * [API Modules Parity](platforms/api-modules-parity.md)
-* [Sandbox Silica](platforms/glass-ecosystem.md)
+* [Sandbox Silica](platforms/silica.md)
 * [Fabric](platforms/fabric.md)
 * [Forge](platforms/forge.md)
 

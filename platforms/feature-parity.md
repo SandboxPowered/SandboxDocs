@@ -12,7 +12,7 @@ description: >-
 
 ## Server-sided features
 
-| Feature | [Glass](glass-ecosystem.md) | [Forge](forge.md) Server | [Fabric](fabric.md) Server |
+| Feature | [Glass](silica.md) | [Forge](forge.md) Server | [Fabric](fabric.md) Server |
 | :--- | :---: | :---: | :---: |
 | Cubic Chunks | ➕ | ❌ | ❌ |
 | Other mod loader compatible | ❌ | ✔️ | ✔️ |
@@ -21,7 +21,7 @@ description: >-
 
 ## Client-sided features
 
-| Feature | [WindowVK](glass-ecosystem.md) | [Forge](forge.md) Client | [Fabric](fabric.md) Client |
+| Feature | [WindowVK](silica.md) | [Forge](forge.md) Client | [Fabric](fabric.md) Client |
 | :--- | :---: | :---: | :---: |
 | Controller Support | ➕ | ➕ | ➕ |
 | Discord Rich Presence | ➕ | ❌ | ❌ |
