@@ -26,7 +26,7 @@ Though we try not to, we may have to make out-of-policy releases, deprecations, 
 
 ## API Stages
 
-API features in sandbox go through some stages before they are marked as Stable. Your plugin should only ever rely on Stable APIs, since they are the only ones that respect the bug fixing and breaking changes policy outlined above. Usage of APIs in other stages is highly discouraged.
+API features in sandbox go through some stages before they are marked as Stable. Your plugin should only ever rely on Stable APIs since they are the only ones that respect the bug fixing and breaking changes policy outlined above. Usage of APIs in other stages is highly discouraged.
 
 All APIs that are in a different stage than Stable are marked with an annotation that indicates their current stage \(e.g. `@Beta` indicates that the API is in Beta stage\). Additionally, the current stage name may be in their package hierarchy, their class name, their method names and/or in comments \(e.g., `InternalBlock` may reside in a package named `internal`\).
 
@@ -34,8 +34,8 @@ All APIs that are in a different stage than Stable are marked with an annotation
 | :--- | :--- | :--- | :--- |
 | **Internal** | Restricted to implementations of the Sandbox API | May include breaking changes with no notice or upgrade guide | Should never be used by external addons |
 | **Pre-Alpha** | Incomplete and/or extremely buggy features, prone to breaking | May include breaking changes with no notice or upgrade guide | Testing |
-| **Alpha** | Incomplete features and/or with high chance of bugs | May include breaking changes with no notice or upgrade guide | Testing and development |
-| **Beta** | Feature complete, but potentially in need of optimization or real world usage testing | Will include notice & upgrade guide if breaking changes occur | Testing and development |
+| **Alpha** | Incomplete features and/or with a high chance of bugs | May include breaking changes with no notice or upgrade guide | Testing and development |
+| **Beta** | Feature complete, but potentially in need of optimization or real-world usage testing | Will include notice & upgrade guide if breaking changes occur | Testing and development |
 | **Stable** | Fully tested features, ready to be used in addons | Will include notice & upgrade guide if breaking changes occur | Public addons and releases |
-| **Deprecated** | Potential removal in future releases, with no bug fixing or enhancement in the mean time | Will be completely removed in future update, notice & upgrade guides are given on deprecation and complete removal | Phasing out of old methods: addons should move to new methods as soon as possible |
+| **Deprecated** | Potential removal in future releases, with no bug fixing or enhancement in the meantime | Will be completely removed in a future update, notice & upgrade guides are given on deprecation and complete removal | Phasing out of old methods: addons should move to new methods as soon as possible |
 
