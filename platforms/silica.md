@@ -10,7 +10,7 @@ The Silica platform is a group of collection of complete rewrites. It is not pos
 
 The Silica platform is a completely new ecosystem built from the ground up with Sandbox in mind. It guarantees a pure and fully working Sandbox platform, along with some custom tweaks & new features aimed to make the player and developer experience better.
 
-\*\*\*\*[**Visit the Sandbox home page**](https://neon.voxel.games)\*\*\*\*
+\*\*\*\*[**Visit the Sandbox home page**](https://sandboxpowered.org)\*\*\*\*
 
 {% hint style="danger" %}
 Silica is not released to the public & is under development. Not all aspects of Sandbox functions on this platform.
