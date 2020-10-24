@@ -2,15 +2,11 @@
 
 * [Home](README.md)
 
-## General Information
-
-* [What is Sandbox?](general-information/what-is-sandbox.md)
-* [Release Policy](general-information/release-policy.md)
-
 ## API Guides
 
 * [Terminology](api-guides/terminology.md)
 * [Sandbox Addon Format](api-guides/sandbox-addon-format.md)
+* [Release Policy](api-guides/release-policy.md)
 
 ## Platforms
 
@@ -20,4 +16,9 @@
 * [Sandbox Silica](platforms/silica.md)
 * [Fabric](platforms/fabric.md)
 * [Forge](platforms/forge.md)
+
+## About Sandbox <a id="about"></a>
+
+* [Introduction](about/introduction.md)
+* [Staff](about/staff.md)
 
