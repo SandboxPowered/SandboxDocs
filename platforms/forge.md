@@ -4,8 +4,6 @@ description: Platform-specific details for Forge
 
 # Forge
 
-Forge is a mod loader whose goal is to provide a centralized and unified API from which all mods can benefit. Mod developers are encouraged to add additional hooks to Forge and provide less specific APIs to facilitate cross-mod interaction.
-
 \*\*\*\*[**Visit the Forge home page**](https://minecraftforge.net)\*\*\*\*
 
 {% hint style="warning" %}
