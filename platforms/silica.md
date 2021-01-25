@@ -13,7 +13,7 @@ The Silica platform is a completely new ecosystem built from the ground up with 
 \*\*\*\*[**Visit the Sandbox home page**](https://sandboxpowered.org)\*\*\*\*
 
 {% hint style="danger" %}
-Silica is not released to the public & is under development. Not all aspects of Sandbox functions on this platform.
+Silica is **not** released to the public & is under development. Not all aspects of Sandbox functions on this platform.
 {% endhint %}
 
 ## **Platform Specifications**

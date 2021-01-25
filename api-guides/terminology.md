@@ -34,7 +34,7 @@ Along with these docs and the entirety of the Sandbox API, there are some common
           <li><b>Client</b>: the piece of software that allows you to play the game
             on your machine, either in Singleplayer or Multiplayer when connecting
             to a <em>server</em>. This is the software to which your addon will be sent
-            to. It is commonly referred to as the &quot;client&quot; or the &quot;game&quot;.</li>
+            to. It is commonly referred to as the &quot;client&quot;.</li>
         </ul>
       </td>
     </tr>
