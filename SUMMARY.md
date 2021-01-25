@@ -8,6 +8,10 @@
 * [Sandbox Addon Format](api-guides/sandbox-addon-format.md)
 * [Release Policy](api-guides/release-policy.md)
 
+## Concepts
+
+* [Schema](concepts/schema.md)
+
 ## Platforms
 
 * [Supported Platforms](platforms/supported.md)
