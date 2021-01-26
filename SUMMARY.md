@@ -10,6 +10,8 @@
 
 ## Concepts
 
+* [Entities and Component](concepts/entities-and-component.md)
+* [Worker Layers](concepts/worker-layers.md)
 * [Schema](concepts/schema.md)
 
 ## Platforms

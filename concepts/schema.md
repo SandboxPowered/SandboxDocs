@@ -69,7 +69,7 @@ component HealthComponent {
 ### Primitive Types
 
 | Syntax | Type | Notes |
-| :--- | :--- | :--- |
+| :---: | :---: | :--- |
 | `bool` | Boolean | True or False. |
 | `uint`, `ulong` | Unsigned Integer | Variable-length encoding; smaller values use fewer bits. |
 | `int`, `long` | Signed Integer | Variable-length encoding; smaller values use fewer bits. Negative values are represented in the usual two's-complement manner, and so use the maximum number of bits. |
@@ -77,7 +77,10 @@ component HealthComponent {
 | `float`, `double` | Floating Point Integer |  |
 | `string` | String of Characters | Strings should always be either ASCII or UTF-8. |
 | `bytes` | Array of Bytes |  |
-| `TagCompound` | Compound NBT Tag |  |
+| `compound` | Compound NBT Tag |  |
+| `item`,`itemstack` | Items |  |
+| `block`,`blockstate` | Blocks |  |
+| `fluid`,`fluidstate`,`fluidstack` | Fluids |  |
 | `Entity` | A Component Set | A data structure that represents an arbitrary collection of components. |
 | `void` | Empty | Void is a type specifically for events and commands instead of implementing empty types |
 
