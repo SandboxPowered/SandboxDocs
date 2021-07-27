@@ -9,10 +9,8 @@ description: Documentation for the Sandbox API
 {% hint style="danger" %}
 ### Sandbox is currently in Pre-Alpha!
 
-This documentation is incomplete and may change at any time until we reach v1.0 of the API
+This documentation is incomplete and may change at any time
 {% endhint %}
 
-![](.gitbook/assets/gh_documentation.png)
-
-
+![](.gitbook/assets/github.png)
 

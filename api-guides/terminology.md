@@ -20,7 +20,7 @@ Along with these docs and the entirety of the Sandbox API, there are some common
       <td style="text-align:left"><b>Platform</b>
       </td>
       <td style="text-align:left">The underlying implementation that identifies the environment your Addon
-        is running on. For a list of platforms, refer to <a href="../platforms/supported.md">Supported Platforms</a>.</td>
+        is running on. For a list of platforms, refer to <a href>Supported Platforms</a>.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Distribution</b>
@@ -73,8 +73,8 @@ Along with these docs and the entirety of the Sandbox API, there are some common
       <td style="text-align:left"><b>Module</b>
       </td>
       <td style="text-align:left">Part of the Sandbox API a developer can choose to interact with. Refer
-        to the <a href="../platforms/api-modules-parity.md">API Modules Parity</a> page
-        for a list of available modules and their availability on target platforms.</td>
+        to the <a href>API Modules Parity</a> page for a list of available modules
+        and their availability on target platforms.</td>
     </tr>
   </tbody>
 </table>
