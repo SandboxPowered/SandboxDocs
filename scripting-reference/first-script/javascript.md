@@ -45,3 +45,34 @@ sandbox.on("clientReady", (client, data) => {
 ```
 {% endcode %}
 
+## Listening to third-party events
+
+Any resource can listen to events from other resources by prefixing the event with the resource name.
+
+{% hint style="info" %}
+Third-party events always run **after** their first-party variant
+{% endhint %}
+
+An example of listening to other resource loading events
+
+{% code title="example/server.js" %}
+```javascript
+// Listening to 'resource' load
+sandbox.on("resource:onResourceLoad", () => {
+    console.log("Resource Loaded")
+}
+// Listening to 'chat' load
+sandbox.on("chat:onResourceLoad", () => {
+    console.log("Chat Loaded")
+}
+// Listening to own load
+sandbox.on("onResourceLoad", () => {
+    console.log("Example Loaded")
+}
+// Listening to own load through third-party
+sandbox.on("example:onResourceLoad", () => {
+    console.log("Example Loaded")
+}
+```
+{% endcode %}
+
