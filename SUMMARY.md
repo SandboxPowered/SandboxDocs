@@ -7,6 +7,7 @@
 * [Introduction to Resources](scripting-reference/introduction-to-resources.md)
 * [Resource Manifest](scripting-reference/resource-manifest.md)
 * [Creating your first script in JavaScript](scripting-reference/creating-your-first-script-in-javascript.md)
+* [Events](scripting-reference/events.md)
 
 ## API Guides
 
