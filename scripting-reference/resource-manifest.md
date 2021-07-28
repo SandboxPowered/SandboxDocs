@@ -1,6 +1,6 @@
 # Resource Manifest
 
-The **resource manifest** is a file named `manifest.toml` placed in a [resource folder](resources-introduction.md#resource-directories) on the server.
+The **resource manifest** is a file named `manifest.toml` placed in a [resource folder](resource-introduction.md#resource-directories) on the server.
 
 ## Example
 

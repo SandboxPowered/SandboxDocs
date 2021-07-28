@@ -4,7 +4,7 @@
 
 ## Scripting Reference
 
-* [Introduction to Resources](scripting-reference/resources-introduction.md)
+* [Introduction to Resources](scripting-reference/resource-introduction.md)
 * [Resource Manifest](scripting-reference/resource-manifest.md)
 * [Creating your first script](scripting-reference/first-script/README.md)
   * [In JavaScript](scripting-reference/first-script/javascript.md)
