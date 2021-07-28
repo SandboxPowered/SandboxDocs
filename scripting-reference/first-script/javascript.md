@@ -20,7 +20,7 @@ sandbox.on("onResourceLoad", () => {
 });
 
 // Runs when the event `serverResponse` is called
-sandbox.on("serverResponse", (response)=> {
+sandbox.on("serverResponse", (response) => {
     // Calls this event on the same side
     sandbox.emit("chat:sendMessage", response);
 })
