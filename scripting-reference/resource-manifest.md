@@ -22,9 +22,10 @@ files = [
 
 # Defines a script to be loaded on both sides. The extension determines which script loader will handle the file.
 #
-# Extension | Loader                | Type                   | Side        | Environments
-# .js       | sandbox:scripting:js  | JavaScript source code | Both Sides  | All environments support
-# .jar      | sandbox:scripting:jvm | Compiled JVM code      | Server Only | Not all environments support
+# Extension | Loader | Type                   | Side        | Environments
+# .js       | js     | JavaScript source code | Both Sides  | All environments support
+# .py       | python | Python source code     | Both Sides  | All environments support
+# .jar      | jvm    | Compiled JVM code      | Server Only | Not all environments support
 scripts = []
 
 # Requires the specified resource to load before the current resource.
