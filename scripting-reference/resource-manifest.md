@@ -1,6 +1,6 @@
 # Resource Manifest
 
-The **resource manifest** is a file named `manifest.toml` placed in a [resource folder](introduction-to-resources.md#resource-directories) on the server.
+The **resource manifest** is a file named `manifest.toml` placed in a [resource folder](resources-introduction.md#resource-directories) on the server.
 
 ## Example
 
@@ -22,10 +22,11 @@ files = [
 
 # Defines a script to be loaded on both sides. The extension determines which script loader will handle the file.
 #
-# Extension | Loader | Type                   | Side        | Environments
-# .js       | js     | JavaScript source code | Both Sides  | All environments support
-# .py       | python | Python source code     | Both Sides  | All environments support
-# .jar      | jvm    | Compiled JVM code      | Server Only | Not all environments support
+# Extension | Loader     | Type                   | Side        | Environments
+# .js       | JavaScript | JavaScript source code | Both Sides  | All environments support
+# .py       | Python     | Python source code     | Both Sides  | All environments support
+# .lua      | Lua        | Lua source code        | Both Sides  | All environments support
+# .jar      | JVM        | Compiled JVM code      | Server Only | Not all environments support
 scripts = []
 
 # Requires the specified resource to load before the current resource.
