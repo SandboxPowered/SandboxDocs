@@ -1,6 +1,11 @@
-# Introduction to Resources
+---
+description: >-
+  Servers run on a collection of resources. A resource is a collection of files
+  - such as client scripts, server scripts, and assets - that can be started,
+  stopped and restarted at any time.
+---
 
-Servers run on a collection of resources. A resource is a collection of files - such as client scripts, server scripts, and assets - that can be started, stopped and restarted at any time.
+# Introduction to Resources
 
 ## Resource Directories
 
