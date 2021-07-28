@@ -31,5 +31,5 @@ In this tree, the following resources exist:
 
 {% page-ref page="resource-manifest.md" %}
 
-{% page-ref page="creating-your-first-script-in-javascript.md" %}
+{% page-ref page="first-script-javascript.md" %}
 
