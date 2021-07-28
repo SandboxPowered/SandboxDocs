@@ -26,10 +26,10 @@ end)
 
 ## Core Events
 
-### OnResourceStart
+### onResourceLoad
 
 ```typescript
-onResourceStart(): void
+onResourceLoad(): void
 ```
 
 An event that is run after a resource has started.  
@@ -37,10 +37,10 @@ An event that is run after a resource has started.
 **Returns** `void`  
 **Side** `both`
 
-### OnResourceStop
+### onResourceUnload
 
 ```typescript
-onResourceStop(): void
+onResourceUnload(): void
 ```
 
 An event that is run before a resource is stopped.  
