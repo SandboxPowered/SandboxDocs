@@ -1,3 +1,7 @@
+---
+description: List of internal events Sandbox has
+---
+
 # Events
 
 ## Using Events
