@@ -17,7 +17,8 @@ An example resource manifest for a hypothetical resource looks as follows:
 # cantankerous | In Development API
 manifest_version = "cantankerous"
 
-# Adds a data file of a specified type to the game extra content system.
+# Adds files of to the resource content system.
+# Any files will be synced to the client unless resource is marked as server only
 #
 # This directive supports globbing in the filename field.
 files = [
