@@ -10,7 +10,7 @@ description: Documentation for the Sandbox API
 This documentation is incomplete and may change at any time
 {% endhint %}
 
-![](.gitbook/assets/github.png)
+![](.gitbook/assets/banner-background.png)
 
 
 
