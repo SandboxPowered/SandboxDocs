@@ -12,7 +12,5 @@ description: Documentation for the Sandbox API
 This documentation is incomplete and may change at any time until we reach v1.0 of the API
 {% endhint %}
 
-![](.gitbook/assets/gh_documentation.png)
-
 
 
