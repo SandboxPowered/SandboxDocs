@@ -18,3 +18,7 @@
 * [Terminology](api-guides/terminology.md)
 * [Release Policy](api-guides/release-policy.md)
 
+## Silica
+
+* [Silica FAQ](silica/silica-faq.md)
+
